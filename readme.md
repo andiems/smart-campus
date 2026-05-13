@@ -1,4 +1,4 @@
-# Evidencia de Aprendizaje: Sitio Web Informativo Institucional
+#  Sitio Web Informativo Institucional
 
 ## Objetivo del Proyecto
 El objetivo principal de este proyecto es diseñar y desarrollar un sitio web informativo estático para la Fundación Educativa "SmartCampus". La solución busca dotar a la institución de presencia digital utilizando exclusivamente tecnologías del lado del cliente, garantizando una navegación accesible, rápida y una estructura de código semántica.
